@@ -1,5 +1,5 @@
 Package: keyguard-android-ssh-agent
-Version: 2.12.0
+Version: 2.13.0
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
 Installed-Size: 802
@@ -8,10 +8,10 @@ Priority: optional
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone SSH agent bridge for Keyguard on Android/Termux.
  It forwards SSH agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_2.12.0_arm.deb
-Size: 426120
-MD5Sum: aa38c997384eb10c44bd9b7ff6a94fcd
-SHA1: 489b668d126f34ec69fd4b056f456f6388874f85
-SHA256: 4d25d123c01e3b114e863dc0fbc836d9a9fcf295a74102b0e3059bd8710779db
-SHA512: b016c121c09071934b61e0214181431dbfeb971f9725b7e8828f6cbe90e34bce128893228d9d5d7d09b183630c3b91a8e3776d2105f8cfa6b749c89dbdd0f555
+Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_2.13.0_arm.deb
+Size: 426092
+MD5Sum: 7e411eb59833df38f6799ed1d7c36cab
+SHA1: 0bd0092d29cedb597f71f7ed925c20c22dc3734b
+SHA256: 87d433707bf4877c1d17451b332a72ea104e45641a98e61d15440c36ccc8d8b8
+SHA512: c74a8f63472aa9af8d61db6991c7f3b9e45ca0c3f0cb6d51d5a55aaee147cb27a171f1d27bc8255bbb498753b30957f5f2c529e81a6e0d3285777326386b6df6
 
