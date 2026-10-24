@@ -1,17 +1,35 @@
-Package: keyguard-android-ssh-agent
-Version: 3.4.0
+Package: keyguard-android-gpg-agent
+Version: 3.5.0
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
-Installed-Size: 832
+Installed-Size: 950
+Section: utils
+Priority: optional
+Depends: gnupg
+Homepage: https://github.com/AChep/keyguard-app
+Description: Standalone GPG agent bridge for Keyguard on Android/Termux.
+ It forwards GnuPG agent requests from Termux to the Keyguard app.
+Filename: dists/stable/main/binary-arm/keyguard-android-gpg-agent_3.5.0_arm.deb
+Size: 501752
+MD5Sum: 3b1d84cfa4e943ebf9450d512765ff7c
+SHA1: 8f5e0fdf6b413065daf5fa40009d79dc179536e4
+SHA256: 4b4ccbd228d89d577c085219e7655903814f17c6eeb823c448d088bc87f5d663
+SHA512: 1c8ddf606077a08273e94f163f00f6c2004ae44a4e270ea51ea090a87063916e258fdd3c3dc03f57e0e555927b5e063c813a32d99b87a8af32e1f6f9aa02547e
+
+Package: keyguard-android-ssh-agent
+Version: 3.5.0
+Architecture: arm
+Maintainer: Artem Chepurnyi <mail@artemchep.com>
+Installed-Size: 840
 Section: utils
 Priority: optional
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone SSH agent bridge for Keyguard on Android/Termux.
  It forwards SSH agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.4.0_arm.deb
-Size: 438664
-MD5Sum: 3bd93d1f8c5fc0c52ecb78aa8015660b
-SHA1: 4f4a44e8e2f7ec407fbd621bb8ef8756bad960dd
-SHA256: 88a30034f53c6258c74adc713b7646e8ab6b2815d82b5e00e7a75ee4ae33d3e2
-SHA512: b00ef699254084aead5b5c3728510da654269a7879e4809424e30b28340fc01342315bc0744103d089bd66320ae6099e9d1d5ab775e68639808c661a39fae178
+Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.5.0_arm.deb
+Size: 441896
+MD5Sum: 869b72ee38897d40ec2291fecc14c4e8
+SHA1: be50c2a19d6099ce4fa837f6312eac18ba0ce628
+SHA256: 6d72ca470d1c5ada9473f458d848c19a63b09f4daabdbbded5e6750da81311f5
+SHA512: 8172afb638a411cd66eeb880c997f79ab0b1907e7878523a1171a6b243fb161d802912730dd4094df4ef0c260d511729ae32ff0a95680d882ff3e5ed5521336c
 

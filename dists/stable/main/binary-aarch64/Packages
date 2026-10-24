@@ -1,17 +1,35 @@
-Package: keyguard-android-ssh-agent
-Version: 3.4.0
+Package: keyguard-android-gpg-agent
+Version: 3.5.0
 Architecture: aarch64
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
-Installed-Size: 1179
+Installed-Size: 1363
+Section: utils
+Priority: optional
+Depends: gnupg
+Homepage: https://github.com/AChep/keyguard-app
+Description: Standalone GPG agent bridge for Keyguard on Android/Termux.
+ It forwards GnuPG agent requests from Termux to the Keyguard app.
+Filename: dists/stable/main/binary-aarch64/keyguard-android-gpg-agent_3.5.0_aarch64.deb
+Size: 499580
+MD5Sum: d3758c42ad4afb58decb9e4912e11599
+SHA1: 6513ab0c2b0a20c50f9e247b9ea8eff65dcdefae
+SHA256: fa4a94a6a7e3ee922374f09c854d346acfabb63213b3b55728c98a9ef58d83c4
+SHA512: 84548dbefd78d43dd222ac7f494993e383630d098b464d5db1e8c3eb9cf4f1bf4c942346447a595663d80fcce56db55477820618ae003dd4ef0d0aa7b1d466d7
+
+Package: keyguard-android-ssh-agent
+Version: 3.5.0
+Architecture: aarch64
+Maintainer: Artem Chepurnyi <mail@artemchep.com>
+Installed-Size: 1196
 Section: utils
 Priority: optional
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone SSH agent bridge for Keyguard on Android/Termux.
  It forwards SSH agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-aarch64/keyguard-android-ssh-agent_3.4.0_aarch64.deb
-Size: 437484
-MD5Sum: 0e36d3c61645db50a612080e9024b840
-SHA1: 10547cd108db321339622002efa3c89743468a5f
-SHA256: 8c253f0d5383b84566c4ac6758d4ce785061c7f6ca1eb08844dd0378b0226bd8
-SHA512: fd7778aefbe5884af6ef204d46f946171da3b026d138b0a7c45edf94f7a6de34248d9ef95d41135dd966179838dbe6ffa6766cb033af4bcb4b4f19f42655b153
+Filename: dists/stable/main/binary-aarch64/keyguard-android-ssh-agent_3.5.0_aarch64.deb
+Size: 442400
+MD5Sum: 78a1cb1c4dce068a2b0c45de45259289
+SHA1: 2f25d32211a55d21ff36c853dd7fc61cfeaee144
+SHA256: 81d6cfbe8e93fcda9c759c9240c66437d4bfea0f0ee7dbd2169c017d79aa5eb1
+SHA512: ab61e6532f0bd73ac21881918fba733dd019fa11a24523af0147b4b5de8449bb78333707b6e5b70cdcd98f7955063e8c479ba15e009c192b93eeba7613fdd328
 

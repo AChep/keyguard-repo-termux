@@ -1,17 +1,35 @@
-Package: keyguard-android-ssh-agent
-Version: 3.4.0
+Package: keyguard-android-gpg-agent
+Version: 3.5.0
 Architecture: x86_64
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
-Installed-Size: 1329
+Installed-Size: 1524
+Section: utils
+Priority: optional
+Depends: gnupg
+Homepage: https://github.com/AChep/keyguard-app
+Description: Standalone GPG agent bridge for Keyguard on Android/Termux.
+ It forwards GnuPG agent requests from Termux to the Keyguard app.
+Filename: dists/stable/main/binary-x86_64/keyguard-android-gpg-agent_3.5.0_x86_64.deb
+Size: 583088
+MD5Sum: 4df914538cb8681c4c24b0e13b482270
+SHA1: 4ccc0deeffb89b154ce8301939c86c5271bf5d69
+SHA256: 377dd52517f2e614bc1ced50f849872c0aeaab99f2be9704485e5c1cb2cd4fae
+SHA512: 226e99ddc55b63146d442dda88a1523c1e11f53514098c646af433c8afe87737ea353f250470f0b83000d09cbe20ac6b51bd1f89e05711edd0e67ad239b15021
+
+Package: keyguard-android-ssh-agent
+Version: 3.5.0
+Architecture: x86_64
+Maintainer: Artem Chepurnyi <mail@artemchep.com>
+Installed-Size: 1347
 Section: utils
 Priority: optional
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone SSH agent bridge for Keyguard on Android/Termux.
  It forwards SSH agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-x86_64/keyguard-android-ssh-agent_3.4.0_x86_64.deb
-Size: 512720
-MD5Sum: 1d91a887bde4a361df62a486774d1579
-SHA1: 66942c8b65e7db99a7dfbabd9e0cbb2fd6cb9b25
-SHA256: a716c878f0017aba4a4c7622f287bc75b955f8463d8deb7a7b9d1f6ebd7bed40
-SHA512: b7fc6de7b29e285bcf13ad975188dd2db206a6727ad0ed8bfeb322b6957e66641bfbcea4e4d75312929820fa19ce722be03ed6dd74c2048472142cf0ff737511
+Filename: dists/stable/main/binary-x86_64/keyguard-android-ssh-agent_3.5.0_x86_64.deb
+Size: 516420
+MD5Sum: d08b23023273ba9dd07cd349607ecc29
+SHA1: 5aae17dcfe69d769e3966b5d586fd103fcf1c3c2
+SHA256: e5080d381ef51342c84ef1993ceba205d1427486914fcbfa180d0f52579fee9d
+SHA512: cda1843a25224a5ffefa16d7c095f7394647c6adae17a38fcc879d48970bd7de1e22cfa93d9d1894fb549a7af448e99769161fad80ec27694116413428a6e55e
 
