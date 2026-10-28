@@ -1,5 +1,5 @@
 Package: keyguard-android-gpg-agent
-Version: 3.6.0
+Version: 3.6.1
 Architecture: x86_64
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
 Installed-Size: 1869
@@ -9,15 +9,15 @@ Depends: gnupg
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone GPG agent bridge for Keyguard on Android/Termux.
  It forwards GnuPG agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-x86_64/keyguard-android-gpg-agent_3.6.0_x86_64.deb
-Size: 704608
-MD5Sum: 2fb60de280d2ab733232c7dcd16a4b7f
-SHA1: 23c6e93cd9baf9b5b756f3f9477fda2bcbe27951
-SHA256: e0270182a64f139de0d0b5d84c18b09616dd3cdfbaccd5a24d1a4e7ecae5cb7f
-SHA512: eeef0d0135326b7e679bd7a10e52529de2700d6e20fdd361ab2d0b8c94f2b30418c546bfdcd99d67cce202dae9c84481e18d3ad55d872864ed95b77ddbfe5617
+Filename: dists/stable/main/binary-x86_64/keyguard-android-gpg-agent_3.6.1_x86_64.deb
+Size: 704260
+MD5Sum: 3bfa8a8135f71df7a4e1c240209d9d74
+SHA1: 4626dffc7d053d7d4c4f77371774630cfef20eaa
+SHA256: 7e467560196dd542cedce27fd929561aa6a2ee1ad3275acce461a62147109b51
+SHA512: 3e4e3a0510bad03c52045e833680ba79c1b684212702ace5daa8c2005212ede8f167fc4c161a5459284865e02780547d6ff6901988bb4e802d84cc5677cfe52f
 
 Package: keyguard-android-ssh-agent
-Version: 3.6.0
+Version: 3.6.1
 Architecture: x86_64
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
 Installed-Size: 1681
@@ -26,10 +26,10 @@ Priority: optional
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone SSH agent bridge for Keyguard on Android/Termux.
  It forwards SSH agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-x86_64/keyguard-android-ssh-agent_3.6.0_x86_64.deb
-Size: 635644
-MD5Sum: c7807c5d53a07dea6059c803e9248417
-SHA1: 9181c3fe4b89561f4d4f98710db3b58ea11f7842
-SHA256: affba38ca1810cde14a67d64fd4f2cde9c7d9fd103ef53e74656253d390e6319
-SHA512: 07e3d95c85524dba0a8b7259418d931dd4ce26893b66b7f12f95412725619f9728d79bc2e7b2a421ed00d4d77fdd6d3600640c1b7c05a2ea3d5a5e8d4db932f0
+Filename: dists/stable/main/binary-x86_64/keyguard-android-ssh-agent_3.6.1_x86_64.deb
+Size: 635416
+MD5Sum: 834232da1d26012cd798286ea12e6c22
+SHA1: 831eb1b53d2eee3f61c953cdd81ead4cde33b730
+SHA256: 92b2ccfb3f28ce4a4e3355843ceaed1b09e94eedb2099a9185eb029843bce30e
+SHA512: 055e23852f36ed147dbec10fdd55da9a778ca0e85147fcf97e9b2873dcbb019084ff7c52a50c9c7314c3669a2c3a3c1dfad1469cd0975c38af5fb9fd2a8a0b80
 

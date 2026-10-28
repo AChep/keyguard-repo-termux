@@ -1,5 +1,5 @@
 Package: keyguard-android-gpg-agent
-Version: 3.6.0
+Version: 3.6.1
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
 Installed-Size: 1162
@@ -9,15 +9,15 @@ Depends: gnupg
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone GPG agent bridge for Keyguard on Android/Termux.
  It forwards GnuPG agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-gpg-agent_3.6.0_arm.deb
-Size: 608056
-MD5Sum: cac53696bc51c8da370102d3882dee48
-SHA1: 14503a320471fdc4d27c19e48c4fbf2782b73ec2
-SHA256: 462c47190a32abbabb780e1eefc83c7de4562b48323ab2d9cbfa9f3294369244
-SHA512: 55eaba52122f08ec81dc158eb541730f1e4aad84e0a253f6cd23693d5b091565df6758b99ea5f9d2fa898bc4f70da9b48e30d0bdd6ea04f3b6aed40115b63c90
+Filename: dists/stable/main/binary-arm/keyguard-android-gpg-agent_3.6.1_arm.deb
+Size: 607892
+MD5Sum: 33c01c78e14393c2b8e0dcbca1e2c22d
+SHA1: a1230c96a6400287ae834d2456364e146ee16db0
+SHA256: 8bde7d298e3f767057ace7531f42b9fa8e08f195cd2c6142c18504bac903ce22
+SHA512: cc8a3d9756104449dd1a4fbc61ebe665aec558525a48b8b678b18788e608528a1dd9358fb61800d4dc5c56183354345e0be6e50a928c051a120dce5370e9f8e1
 
 Package: keyguard-android-ssh-agent
-Version: 3.6.0
+Version: 3.6.1
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
 Installed-Size: 1046
@@ -26,10 +26,10 @@ Priority: optional
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone SSH agent bridge for Keyguard on Android/Termux.
  It forwards SSH agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.6.0_arm.deb
-Size: 545708
-MD5Sum: a5502790286477dcf7d18704c788d5a2
-SHA1: c552d0ff8e54f56e72f038c82dbcf88756621537
-SHA256: 08b6c9b6c2e54214b6d54acc4d84c94b3902841df22587d1c41828420d9d66fb
-SHA512: 6c0f957ba4e28a28da736a5b4466fb50659fe33c469a4e57258077f0e83662267a0209278ca57fb5b7b0b730969cf5802d134aca3acf990e884419d28a142baa
+Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.6.1_arm.deb
+Size: 545640
+MD5Sum: 176ac0df4bf46194a741f9eea612d1c5
+SHA1: 2b4f0f285fd5b1a993a86c1c3aca2e3608f16ea4
+SHA256: bc69b42eac949106ffcfecb0be7469f24dd87713ae7f0e527115983d21ecbfba
+SHA512: 6630f1f8d9aec69bee75c0c1a22ef4e7c1634d17c5135be208bde0a786d61df136b916e3cbcc71b3caf612351ecf1c750ae91ecdd5d5b06dc4751ba340b18e76
 
