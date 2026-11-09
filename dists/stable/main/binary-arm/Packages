@@ -1,5 +1,5 @@
 Package: keyguard-android-gpg-agent
-Version: 3.7.0
+Version: 3.8.0
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
 Installed-Size: 1169
@@ -9,15 +9,15 @@ Depends: gnupg
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone GPG agent bridge for Keyguard on Android/Termux.
  It forwards GnuPG agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-gpg-agent_3.7.0_arm.deb
-Size: 611352
-MD5Sum: 28b88bd5837caa684e98f6fa98ee257c
-SHA1: 409e0ccbbb725ea95960e0ee4b57ae7584fbe087
-SHA256: 52bdaed7d216e78e86b8d80991419324b34c15e7f3441c74941a5795ede8215f
-SHA512: e4531cc17677eb8512a2d09dcd76bbbe46f344cca62c81bdcff1277c365c511dcec20f848cd7d634abd30d00f3554bb98752387e4d49b8db204844e5c8811fee
+Filename: dists/stable/main/binary-arm/keyguard-android-gpg-agent_3.8.0_arm.deb
+Size: 611648
+MD5Sum: 1aa6b4ae3df9d166c80e56fb942d0f76
+SHA1: 5f9d79cc9bf121af37a8bd42d1433a6a9c613d86
+SHA256: 2428f0ec7589608609fbe89a42c525d365dfe37f56b90b825f8d8c70d28633e5
+SHA512: de03b00a08ce312b4a3e24915a8ea64c8dff73d3a7dcbf595c81e93cfdbfef544abe33aeb1b890ee0d757ade2fadd3563351f29d9994a4d98b9500cd353849cf
 
 Package: keyguard-android-ssh-agent
-Version: 3.7.0
+Version: 3.8.0
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
 Installed-Size: 1053
@@ -26,10 +26,10 @@ Priority: optional
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone SSH agent bridge for Keyguard on Android/Termux.
  It forwards SSH agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.7.0_arm.deb
-Size: 549972
-MD5Sum: 57dc1e0fbe4fe0a3d4bdacab8b4d6ec3
-SHA1: 1baa90df6640fed121c78fef92d529d8a9e25097
-SHA256: 91ba012f27991e77da10f0d5c20978b2cb5a9a229be3dc7d77af849f29ebe442
-SHA512: 4c7bd19974cb298e228466c9910d35e91a734a5db9242e40a383a7ecc67d3b926ce77367aee5c223bafd79dab929cd3e8c6bd80e58dedf030c69c187c578e480
+Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.8.0_arm.deb
+Size: 550108
+MD5Sum: d11b76ae4280831bd73e6624e19fa86d
+SHA1: dfc61508c9267d7137fe40ec6a80bc1f3b89558c
+SHA256: 398b8a821a6b0a1f77b0ed8531e24345f41aef36eda42d89168187f918808ab3
+SHA512: 8a83d5ec6a6eec6c215086fe15bff3f5b273e8833d445d084c3f4759deda7fb02dd5bd262235dbdaaad88f091a08e2d7e958ad8e7eb9e5d47b1cdb2a0f1ce7b3
 
