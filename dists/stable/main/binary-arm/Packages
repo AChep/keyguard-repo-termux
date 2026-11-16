@@ -1,5 +1,5 @@
 Package: keyguard-android-gpg-agent
-Version: 3.8.1
+Version: 3.8.2
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
 Installed-Size: 1169
@@ -9,27 +9,27 @@ Depends: gnupg
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone GPG agent bridge for Keyguard on Android/Termux.
  It forwards GnuPG agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-gpg-agent_3.8.1_arm.deb
-Size: 611376
-MD5Sum: 6580fd2338390618ef2852e486487b65
-SHA1: 116b5500ead4dd1ac39a06db66828e281ff20a84
-SHA256: 72bb1c46229eb239af3ea9fae2bd084c4c8f740ee4e165cb0dea2b87345fb8a9
-SHA512: 110cbf2199750c24b299aaf500357c35d31503ed682caa20af01f49401ae5f40d92919c97d37f9b3e82cd9ba9999e568a6805510814aeab50ae4cdbad5d66aa1
+Filename: dists/stable/main/binary-arm/keyguard-android-gpg-agent_3.8.2_arm.deb
+Size: 611736
+MD5Sum: ba214802343ae1954741fa17bbad5cae
+SHA1: 07a46f0f50eceb766282ae0882d03987827aaaeb
+SHA256: 58c52c65a3716eef8a3be54478ab577423487be8d77a5ffb79dbab7e5f24d97c
+SHA512: bc8499a1046de6505ffc117c32268d0a98362a8340dd065ccb1273de44139c0d3895162c798868b1ffdd556ef856fe4fdf169bed95268733dc0fea84437f368b
 
 Package: keyguard-android-ssh-agent
-Version: 3.8.1
+Version: 3.8.2
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
-Installed-Size: 1054
+Installed-Size: 1053
 Section: utils
 Priority: optional
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone SSH agent bridge for Keyguard on Android/Termux.
  It forwards SSH agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.8.1_arm.deb
-Size: 550040
-MD5Sum: b647d8ee484826388543fbdbfad4223a
-SHA1: 87f283c2dce5ff943e6adf2dea133282b8cd2a85
-SHA256: 1ca91523b7192594ee1ee807d37ddf86ac9c89aea9abbb82b9a9aae966c10404
-SHA512: cbbb6e1064f3cbd8739cffb027ebc02337e985b51fa3b5247b4b9631beca7eb0ac30c2cfb2416c01698a9c0964e4366e01ece9016f292f9f2754fc95da07e796
+Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.8.2_arm.deb
+Size: 549956
+MD5Sum: 80ddef31ce19136250c3247cceb4b68a
+SHA1: 3e3728267a996c2d56242af1c35f5ec9274db298
+SHA256: 8c54ea6db1f4795660eb6522da7d96839e0958244c9b2d2fc55fbaa423691a1e
+SHA512: d81e904adc9f484b4b70aae1737e1ffc1bec277773c2183b49244ce06c8c3b92c84cc74438886020cca8a760c9a8ecfc87308c4defd8ca53bd26dd3ade965c41
 
