@@ -1,35 +1,35 @@
 Package: keyguard-android-gpg-agent
-Version: 3.8.2
+Version: 3.9.0
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
-Installed-Size: 1169
+Installed-Size: 1176
 Section: utils
 Priority: optional
 Depends: gnupg
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone GPG agent bridge for Keyguard on Android/Termux.
  It forwards GnuPG agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-gpg-agent_3.8.2_arm.deb
-Size: 611736
-MD5Sum: ba214802343ae1954741fa17bbad5cae
-SHA1: 07a46f0f50eceb766282ae0882d03987827aaaeb
-SHA256: 58c52c65a3716eef8a3be54478ab577423487be8d77a5ffb79dbab7e5f24d97c
-SHA512: bc8499a1046de6505ffc117c32268d0a98362a8340dd065ccb1273de44139c0d3895162c798868b1ffdd556ef856fe4fdf169bed95268733dc0fea84437f368b
+Filename: dists/stable/main/binary-arm/keyguard-android-gpg-agent_3.9.0_arm.deb
+Size: 614440
+MD5Sum: 995f996ba5d58bcaca5f661646ce4842
+SHA1: 8c58a2617945729c07eba90689594235f70cfbb5
+SHA256: 4d3ab0caaa72d6a65b31e18f28fa4d1ba49b5233c1ac3ad8c031206ae4af0e88
+SHA512: 285d7e5f7f8d6ade1b4127549deac4761a634624b5f62e2368b48d5ade2865284fce3ab24544916fc5150fa3d9cfb4126cb50bdf70fc0d42df1d9468affa071a
 
 Package: keyguard-android-ssh-agent
-Version: 3.8.2
+Version: 3.9.0
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
-Installed-Size: 1053
+Installed-Size: 1061
 Section: utils
 Priority: optional
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone SSH agent bridge for Keyguard on Android/Termux.
  It forwards SSH agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.8.2_arm.deb
-Size: 549956
-MD5Sum: 80ddef31ce19136250c3247cceb4b68a
-SHA1: 3e3728267a996c2d56242af1c35f5ec9274db298
-SHA256: 8c54ea6db1f4795660eb6522da7d96839e0958244c9b2d2fc55fbaa423691a1e
-SHA512: d81e904adc9f484b4b70aae1737e1ffc1bec277773c2183b49244ce06c8c3b92c84cc74438886020cca8a760c9a8ecfc87308c4defd8ca53bd26dd3ade965c41
+Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.9.0_arm.deb
+Size: 553208
+MD5Sum: 45aaaa3cd231189c07c63de21dbea15f
+SHA1: 43bd68af56f7a171f55b2f6e01f5fa71eb7d08a0
+SHA256: 63339bf8721cbc85e9691f96213e125d6ac9c536ec124f6fc6c7e2ca12dbf732
+SHA512: ca07bc8dbf4bb2d873cc55b42b812e978b3cdb2ea2cbc8608e17739f4b9d79da59f7807b72914169056778b4804cd5b90361e812e50b4d9d79ab675cfe4bc1c2
 
