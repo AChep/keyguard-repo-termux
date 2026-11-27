@@ -1,5 +1,5 @@
 Package: keyguard-android-gpg-agent
-Version: 3.9.0
+Version: 3.10.0
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
 Installed-Size: 1176
@@ -9,15 +9,15 @@ Depends: gnupg
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone GPG agent bridge for Keyguard on Android/Termux.
  It forwards GnuPG agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-gpg-agent_3.9.0_arm.deb
-Size: 614440
-MD5Sum: 995f996ba5d58bcaca5f661646ce4842
-SHA1: 8c58a2617945729c07eba90689594235f70cfbb5
-SHA256: 4d3ab0caaa72d6a65b31e18f28fa4d1ba49b5233c1ac3ad8c031206ae4af0e88
-SHA512: 285d7e5f7f8d6ade1b4127549deac4761a634624b5f62e2368b48d5ade2865284fce3ab24544916fc5150fa3d9cfb4126cb50bdf70fc0d42df1d9468affa071a
+Filename: dists/stable/main/binary-arm/keyguard-android-gpg-agent_3.10.0_arm.deb
+Size: 614620
+MD5Sum: 26d2e90134f52b66c95ea652133f986f
+SHA1: f4da576789dc03c9ffca61d132a64856dcf98f24
+SHA256: 65df9d5ec92d1f554abeb9042cf9d11d5589bbbc09d5cd528d198fe5c2aa2d5c
+SHA512: d0bd078c492037dc6370fece5205bfe0fad6b0620fb78bb06133e01ae91d4bbbcea414c265c380a6194f3caf1f3a955e17cea0980d7ef852ff6a4ea47d256509
 
 Package: keyguard-android-ssh-agent
-Version: 3.9.0
+Version: 3.10.0
 Architecture: arm
 Maintainer: Artem Chepurnyi <mail@artemchep.com>
 Installed-Size: 1061
@@ -26,10 +26,10 @@ Priority: optional
 Homepage: https://github.com/AChep/keyguard-app
 Description: Standalone SSH agent bridge for Keyguard on Android/Termux.
  It forwards SSH agent requests from Termux to the Keyguard app.
-Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.9.0_arm.deb
-Size: 553208
-MD5Sum: 45aaaa3cd231189c07c63de21dbea15f
-SHA1: 43bd68af56f7a171f55b2f6e01f5fa71eb7d08a0
-SHA256: 63339bf8721cbc85e9691f96213e125d6ac9c536ec124f6fc6c7e2ca12dbf732
-SHA512: ca07bc8dbf4bb2d873cc55b42b812e978b3cdb2ea2cbc8608e17739f4b9d79da59f7807b72914169056778b4804cd5b90361e812e50b4d9d79ab675cfe4bc1c2
+Filename: dists/stable/main/binary-arm/keyguard-android-ssh-agent_3.10.0_arm.deb
+Size: 553216
+MD5Sum: 9bc66af1ef8c5ba3c699dd169db806d3
+SHA1: 6fcfdd79cff898a58dcd57a957656f05704e6f58
+SHA256: acf1ebf3e5f9584b60d41c13b10703bdb83e23ca55dcb0ed412af9c55f97bd42
+SHA512: 19f1397f46b8bcac3783cf6360290dcdb09ce8d072b3e1ec09f2167b0fc25b319dd81cf05cc7d3c3e241523bfe56c2daff1109533fffc6a6b493004fa0cff415
 
